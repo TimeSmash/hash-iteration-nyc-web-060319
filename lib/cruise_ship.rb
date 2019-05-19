@@ -9,5 +9,5 @@ suite_e: "Crumpet the Elf"
 def select_winner(passengers)
   # add the code snippet here!
   passengers.each do |key, value|
-    if key = 
+    if key = :suite_a && passengers[:suite_a]
 end
