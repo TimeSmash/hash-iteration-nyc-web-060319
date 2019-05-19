@@ -11,4 +11,5 @@ def select_winner(passengers)
   passengers.each do |key, value|
     if key = :suite_a && passengers[:suite_a][0] == A
     end
+  end
 end
